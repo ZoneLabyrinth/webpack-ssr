@@ -1,0 +1,27 @@
+{
+    "error": [],
+    "extra": [],
+    "data": [
+        {
+            "article_count": 9,
+            "title": "第一章：wepack与构建发展简史",
+            "id": "552"
+        },
+        {
+            "article_count": 12,
+            "title": "第二章：webpack基础用法",
+            "id": "553"
+        },
+        {
+            "article_count": 16,
+            "title": "第三章：webpack进阶用法",
+            "id": "667"
+        },
+        {
+            "article_count": 1,
+            "title": "第四章：编写可维护的webpack构建配置",
+            "id": "731"
+        }
+    ],
+    "code": 0
+}
